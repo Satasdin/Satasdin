@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=200&section=header&text=Ibrahim%20Sudheys%20Ali&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20On-Device%20AI%20%7C%20Cybersecurity&descAlignY=55&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Satasdin">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Building+multi-tenant+systems+from+schema+to+screen;Making+small+on-device+LLMs+punch+above+their+weight;Offline-first+mobile+%7C+Privacy+by+design;CS+%40+Strathmore+%7C+Cybersecurity+%40+Moringa" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Satasdin&label=Profile%20Views&color=67e8f9&style=flat-square" alt="Profile Views" />
@@ -17,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Fourth-year Informatics & Computer Science student at **Strathmore University** with a parallel cybersecurity track at **Moringa School**. I build production systems end-to-end — backend schemas, mobile clients, web dashboards — and I'm drawn to the hard architectural problems: multi-tenancy, offline-first sync, on-device inference, and privacy-by-design. I like reducing messy operational reality to clean, well-typed systems that actually ship.
+Fourth-year Informatics & Computer Science student at **Strathmore University** with a parallel cybersecurity track at **Moringa School**. I build production systems end-to-end backend schemas, mobile clients, web dashboards and I'm drawn to the hard architectural problems: multi-tenancy, offline-first sync, on-device inference, and privacy-by-design. I like reducing messy operational reality to clean, well-typed systems that actually ship.
 
 ```text
 🔭  Current Focus  →  CAMR — a frozen-weights, token-compressed associative memory
